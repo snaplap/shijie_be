@@ -115,16 +115,7 @@ curl -X POST http://localhost:8080/api/auth/send-code \
 - src/main/java/com/tongji/relation: 关注关系
 - src/main/java/com/tongji/counter: 计数系统
 - db/schema.sql: 数据库初始化脚本
-- docs: 设计方案与接口文档
 
-## 相关文档
-
-- docs/API接口文档.md
-- docs/API接口文档_knowpost.md
-- docs/API接口文档_用户关系.md
-- docs/API接口文档_计数.md
-- docs/用户关系设计方案.md
-- docs/计数系统设计方案.md
 
 ## 展示
 
