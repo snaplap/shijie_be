@@ -137,7 +137,7 @@ curl -X POST http://localhost:8080/api/auth/send-code \
 
 ## 展示
 
-  ![示例图片](pictures\121fec0b-5bc8-4fa8-8c00-5e7a15b641bf.png)
+![示例图片](pictures\121fec0b-5bc8-4fa8-8c00-5e7a15b641bf.png)
 
-  ![示例图片](pictures\4b7028e0-cfa1-4f64-91a6-2ad2b08eedb5.png)
+![示例图片](pictures\4b7028e0-cfa1-4f64-91a6-2ad2b08eedb5.png)
 
