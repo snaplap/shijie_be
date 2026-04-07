@@ -134,3 +134,10 @@ curl -X POST http://localhost:8080/api/auth/send-code \
 - docs/API接口文档_计数.md
 - docs/用户关系设计方案.md
 - docs/计数系统设计方案.md
+
+## 展示
+
+  ![示例图片](pictures\121fec0b-5bc8-4fa8-8c00-5e7a15b641bf.png)
+
+  ![示例图片](pictures\4b7028e0-cfa1-4f64-91a6-2ad2b08eedb5.png)
+
